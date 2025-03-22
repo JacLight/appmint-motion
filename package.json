@@ -1,7 +1,7 @@
 {
   "name": "@appmint/motion",
   "author": "Jac Light",
-  "version": "0.0.1",
+  "version": "0.1.1",
   "description": "A lightweight motion library for React, powered by anime.js and TypeScript.",
   "main": "dist/appmint-motion.cjs.js",
   "module": "dist/appmint-motion.esm.js",
